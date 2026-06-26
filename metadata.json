@@ -1,0 +1,6 @@
+{
+  "name": "Jasa Tukang Listrik Surabaya",
+  "description": "Jasa Tukang Listrik Panggilan Surabaya. Melayani perbaikan listrik konslet, pemasangan MCB, lampu, saklar, dan instalasi listrik baru untuk rumah, ruko, kos, dan ruko dengan harga transparan dan pengerjaan rapi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
